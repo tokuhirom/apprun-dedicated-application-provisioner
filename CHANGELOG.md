@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.1.2](https://github.com/tokuhirom/apprun-dedicated-provisioner/compare/v0.1.1...v0.1.2) - 2026-02-02
+- Update tagpr.yml by @tokuhirom in https://github.com/tokuhirom/apprun-dedicated-provisioner/pull/101
+
 ## [v0.1.1](https://github.com/tokuhirom/apprun-dedicated-provisioner/compare/v0.1.0...v0.1.1) - 2026-01-26
 - revert: restore tagpr-based release workflow by @tokuhirom in https://github.com/tokuhirom/apprun-dedicated-provisioner/pull/97
 
